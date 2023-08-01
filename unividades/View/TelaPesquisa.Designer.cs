@@ -45,7 +45,7 @@
             label1.BackColor = Color.White;
             label1.Font = new Font("Square721 BT", 24F, FontStyle.Italic, GraphicsUnit.Point);
             label1.ForeColor = Color.Red;
-            label1.Location = new Point(207, 37);
+            label1.Location = new Point(238, 35);
             label1.Name = "label1";
             label1.Size = new Size(174, 40);
             label1.TabIndex = 0;
@@ -56,18 +56,18 @@
             label2.AutoSize = true;
             label2.BackColor = Color.FromArgb(192, 0, 0);
             label2.ForeColor = Color.Silver;
-            label2.Location = new Point(41, 186);
+            label2.Location = new Point(32, 243);
             label2.Name = "label2";
-            label2.Size = new Size(89, 15);
+            label2.Size = new Size(34, 15);
             label2.TabIndex = 1;
-            label2.Text = "Digite sua Sala :";
+            label2.Text = "Sala :";
             // 
             // label4
             // 
             label4.AutoSize = true;
             label4.BackColor = Color.FromArgb(192, 0, 0);
             label4.ForeColor = Color.Silver;
-            label4.Location = new Point(41, 219);
+            label4.Location = new Point(32, 272);
             label4.Name = "label4";
             label4.Size = new Size(53, 15);
             label4.TabIndex = 3;
@@ -78,7 +78,7 @@
             label5.AutoSize = true;
             label5.BackColor = Color.FromArgb(192, 0, 0);
             label5.ForeColor = Color.Silver;
-            label5.Location = new Point(41, 256);
+            label5.Location = new Point(32, 214);
             label5.Name = "label5";
             label5.Size = new Size(52, 15);
             label5.TabIndex = 4;
@@ -87,7 +87,7 @@
             // textBoxsala
             // 
             textBoxsala.BackColor = Color.FromArgb(192, 0, 0);
-            textBoxsala.Location = new Point(135, 178);
+            textBoxsala.Location = new Point(137, 235);
             textBoxsala.Name = "textBoxsala";
             textBoxsala.Size = new Size(100, 23);
             textBoxsala.TabIndex = 5;
@@ -95,7 +95,7 @@
             // textBoxhorario
             // 
             textBoxhorario.BackColor = Color.FromArgb(192, 0, 0);
-            textBoxhorario.Location = new Point(135, 216);
+            textBoxhorario.Location = new Point(137, 264);
             textBoxhorario.Name = "textBoxhorario";
             textBoxhorario.Size = new Size(100, 23);
             textBoxhorario.TabIndex = 6;
@@ -103,9 +103,9 @@
             // textBoxcod
             // 
             textBoxcod.BackColor = Color.FromArgb(192, 0, 0);
-            textBoxcod.Location = new Point(135, 248);
+            textBoxcod.Location = new Point(137, 206);
             textBoxcod.Name = "textBoxcod";
-            textBoxcod.Size = new Size(100, 23);
+            textBoxcod.Size = new Size(46, 23);
             textBoxcod.TabIndex = 7;
             // 
             // label3
